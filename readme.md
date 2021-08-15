@@ -1,6 +1,3 @@
-<h1 align="center">
-	<img alt="Logo do GamePlay" title="Logo do GamePlay" src="./assets/icon.png">
-</h1>
 <p align="center">
 	<img src="img/Capa.png">
 </p>
